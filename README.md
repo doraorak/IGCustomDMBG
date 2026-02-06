@@ -7,4 +7,4 @@ This is a tweak that lets you add custom background images to your dm rows in in
 Tested on `Instagram v407.0.0` `iPhone 14 pro max` `iOS 26.0`
 
 # Building
-`make clean package` via Theos
+`make clean package` via Theos (www.theos.dev)
