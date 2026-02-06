@@ -4,5 +4,7 @@
 # Info
 This is a tweak that lets you add custom background images to your dm rows in instagram. Custom backgrounds persist after closing the app & the tweak works without a jailbreak. The appropriate resolution for the images is `1290x216`
 
+Tested on `Instagram v407.0.0` `iPhone 14 pro max` `iOS 26.0`
+
 # Building
 `make clean package` via Theos
